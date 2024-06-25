@@ -1,8 +1,9 @@
-# React + Vite
+# Lorem Ipsum React Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+This project is a simple React application that demonstrates the usage and purpose of Lorem Ipsum.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Lorem Ipsum is a dummy text used in the printing and typesetting industry. It has been the industry's standard placeholder text since the 1500s, providing a way to fill space with text that resembles natural language without distracting from the design. Originally from a work by Cicero, it has been used by designers, developers, and publishers to create sample documents and mockups.
+
+
